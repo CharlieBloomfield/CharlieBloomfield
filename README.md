@@ -1,8 +1,6 @@
 # Charlie Bloomfield
 
-**`2nd Computer Science Student at Lancaster University`**
-
-
+**`2nd Year Computer Science Student at Lancaster University`**
 
 ### Languages and Tools 🧰
 
@@ -22,18 +20,11 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
+### Previous work
 
-<!--
-**CharlieBloomfield/CharlieBloomfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Bomb Sweeper Game
+<img width="523" alt="Screenshot 2024-01-03 at 12 27 37" src="https://github.com/CharlieBloomfield/CharlieBloomfield/assets/122797812/12e8195e-6ca1-45d4-982d-2f8a037ca610">
 
-Here are some ideas to get you started:
+#### FAT 16 File System reader
+<img width="1081" alt="Screenshot 2024-01-03 at 13 37 58" src="https://github.com/CharlieBloomfield/CharlieBloomfield/assets/122797812/ed974f1a-4796-457a-a118-c9dde9b55319">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
