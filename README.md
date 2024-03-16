@@ -2,6 +2,8 @@
 
 **`2nd Year Computer Science Student at Lancaster University`**
 
+Please note that I cannot have my repos as public as this is will make me liable to acadmeic plagarism charges.
+
 ### Languages and Tools 🧰
 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
