@@ -2,9 +2,6 @@
 
 **`2nd Year Computer Science Student at Lancaster University`**
 
-![Charlie's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlieBloomfield&show_icons=true&theme=dark&hide_rank=true)
-![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlieBloomfield&theme=dark&layout=donut)
-
 ### Languages and Tools 🧰
 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
